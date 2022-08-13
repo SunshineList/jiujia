@@ -1,3 +1,12 @@
+# 2022-08-13 更新说明
+* <font size=4>关于闪退的问题解决办法(环境问题) 尝试一下在本机python环境安装pyqt5 和 pyqt5-tools 然后重启试一下</font>
+* `pip install pyqt5 `
+* `pip install pyqt5-tools`
+* <font size=4>关于issue不会使用fiddler的小伙伴们  fiddler使用方法 [使用说明](https://blog.csdn.net/A_Liucky_Girl/article/details/124534772) </font>
+* <font size="4">[关于fiddler无法抓取小程序包问题解决方案](https://blog.csdn.net/weixin_45507369/article/details/124204625) </font>
+
+
+
 # 使用说明
 
 * <font size=4>cookie: 知苗易约小程序cookie 获取预约人信息</font>
