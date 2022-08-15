@@ -1,3 +1,6 @@
+# 2022-08-14 更新说明
+* <font siz=4>修复因超时闪退问题</font>
+
 # 2022-08-13 更新说明
 * <font size=4>关于闪退的问题解决办法(环境问题) 尝试一下在本机python环境安装pyqt5 和 pyqt5-tools 然后重启试一下</font>
 * `pip install pyqt5 `
