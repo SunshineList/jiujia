@@ -1,11 +1,14 @@
+# 2022-08-25更新说明
+* <font size=4>修复了大家issue提出的异常闪退问题</font>
+* <font size=4>文本日志输出优化 更容易看出是哪里出现了问题</font>
+* <font size=4>更新动态刷pid流程(推荐大家直接填疫苗全名) 提高获取速度</font>
+
+
 # 2022-08-14 更新说明
-* <font siz=4>修复因超时闪退问题</font>
-* <font siz=4>支持疫苗名字全匹配定位(最好使用这种方式 相当于复制一下疫苗名字)</font>
+* <font size=4>修复因超时闪退问题</font>
+* <font size=4>支持疫苗名字全匹配定位(最好使用这种方式 相当于复制一下疫苗名字)</font>
 
 # 2022-08-13 更新说明
-* <font size=4>关于闪退的问题解决办法(环境问题) 尝试一下在本机python环境安装pyqt5 和 pyqt5-tools 然后重启试一下</font>
-* `pip install pyqt5 `
-* `pip install pyqt5-tools`
 * <font size=4>关于issue不会使用fiddler的小伙伴们  fiddler使用方法 [使用说明](https://blog.csdn.net/A_Liucky_Girl/article/details/124534772) </font>
 * <font size="4">[关于fiddler无法抓取小程序包问题解决方案](https://blog.csdn.net/weixin_45507369/article/details/124204625) </font>
 
