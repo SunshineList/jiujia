@@ -1,5 +1,6 @@
 # 2022-08-26更新说明
 * <font size=4>完善异常处理机制</font>
+* <font size=4>修复打开fiddler就闪退的问题</font>
 
 # 2022-08-25更新说明
 * <font size=4>修复了大家issue提出的异常闪退问题</font>
